@@ -9,9 +9,9 @@ import uuid
 import openai
 from datetime import date
 
-openai_api_key = "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"
-weather_api_key = "52b873fc352569baa5988a9896e72217"
-news_api_key = "864159695c4a4cefbb9829b28b7c080b"
+openai_api_key = ""
+weather_api_key = ""
+news_api_key = ""
 lang = 'en'
 
 openai.api_key = openai_api_key
